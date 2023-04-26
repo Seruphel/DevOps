@@ -78,3 +78,6 @@ Date:   Wed Apr 26 11:11:32 2023 +0100
     First Commit
 
 C:\Users\Aelion\Desktop\GitMe>
+
+Si on perd son dossier ou pour le récuperer on peut faire un cmd> git clone >url du repo.
+
